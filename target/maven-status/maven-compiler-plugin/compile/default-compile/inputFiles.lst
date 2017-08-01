@@ -1,1 +1,7 @@
-/home/milianojack/Documents/Programming/Java/EclipseWorkspace/cloud-verano/src/main/java/iteso/cloud_verano/App.java
+/home/milianojack/Documents/Programming/Java/EclipseWorkspace/cloud-verano/src/main/java/iteso/cloud_verano/Login.java
+/home/milianojack/Documents/Programming/Java/EclipseWorkspace/cloud-verano/src/main/java/iteso/cloud_verano/aws/S3Client.java
+/home/milianojack/Documents/Programming/Java/EclipseWorkspace/cloud-verano/src/main/java/iteso/cloud_verano/aws/DynamoClient.java
+/home/milianojack/Documents/Programming/Java/EclipseWorkspace/cloud-verano/src/main/java/iteso/cloud_verano/Signup.java
+/home/milianojack/Documents/Programming/Java/EclipseWorkspace/cloud-verano/src/main/java/iteso/cloud_verano/RestApi.java
+/home/milianojack/Documents/Programming/Java/EclipseWorkspace/cloud-verano/src/main/java/iteso/cloud_verano/Interceptor.java
+/home/milianojack/Documents/Programming/Java/EclipseWorkspace/cloud-verano/src/main/java/iteso/cloud_verano/UserDashboard.java

@@ -15,7 +15,7 @@ public class DynamoClient {
 	private AmazonDynamoDB client = AmazonDynamoDBClientBuilder
 			.standard()										   
 			.withEndpointConfiguration
-			(new AwsClientBuilder.EndpointConfiguration(serviceEndpoint, Regions.US_WEST_2.name()))
+			(new AwsClientBuilder.EndpointConfiguration(serviceEndpoint, Regions.US_EAST_2.name()))
 			.build();
 	DynamoDB dynamoDB = new DynamoDB(client);
 	
